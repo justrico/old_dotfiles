@@ -1,0 +1,4 @@
+*.DS_Store
+/zsh/.zim
+/zsh/.zshrc
+/zsh/.zimrc

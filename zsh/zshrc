@@ -1,0 +1,8 @@
+source $HOME/.config/zsh/env.zsh
+source $HOME/.config/zsh/aliases.zsh
+source $HOME/.config/zsh/vi.zsh
+# Initialize Zim
+source ${ZIM_HOME}/login_init.zsh -q &!
+# source $HOME/.config/zsh/plugins.zsh
+
+# autopair-init
